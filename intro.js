@@ -1,8 +1,5 @@
 function introduction(name, age, address) {
- 
-    console.log(`Name: ${name}`);
-    console.log(`Age: ${age}`);
-    console.log(`Address: ${address}`);
+    console.log(`Hi, I'm ${name}, I'm ${age} old, and I live in ${address}.`);
 }
 
 introduction('Truong Dang Gia Tue', 18, 'Saigon');
